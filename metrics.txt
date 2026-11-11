@@ -1,0 +1,7 @@
+PPG Vitals Analysis on BIDMC record 03 (real ICU PPG, 125 Hz, 8 min)
+beats detected        : 610
+heart rate (from PPG) : 76.4 bpm
+heart rate (monitor)  : 76.6 bpm   -> error 0.3 bpm
+SDNN / RMSSD (HRV)    : 59 ms / 95 ms
+resp rate (from PPG)  : 17.8 breaths/min
+resp rate (monitor)   : 17.6 breaths/min -> error 0.2
